@@ -1,2 +1,3 @@
 # Vighnesh-s-Python-Pjoject
-This project is a report card management system made by me. 
+This project is a report card management system made by me. The project consists of two main parts: the teacher and the student. The user (teacher/student) can login from the main file.
+In the teacher's login, the user can type the exam name, student name, subject name and its marks for each exam which is a menu driven process. The data is stored in a csv file which acts as the database. In the student login, the user can enter the exam they want to see the results for (or for all exams) and the average of the exam is also displayed. There is also a custom module called extras.py which has the functions to display the exam scores and the exam averages. 
